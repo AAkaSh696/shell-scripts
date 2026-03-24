@@ -20,6 +20,6 @@ ls -dt backup_* 2>/dev/null | tail -n +6 | xargs rm -rf
 # Write only this log line
 echo "Backup created at $DATE" >> "$LOG"
 
-# Keep only last 5 log entries (same as GUI script)
+# Keep only last 5 log entries
 tail -n 5 "$LOG" > temp_log.txt
 mv temp_log.txt "$LOG"
