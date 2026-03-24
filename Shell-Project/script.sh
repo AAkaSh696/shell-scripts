@@ -88,7 +88,7 @@ zenity --text-info \
 
 "Schedule Backup⏰")
 
-(crontab -l 2>/dev/null; echo "* 2 * * * /home/king/backup_project/backup_gui.sh --auto") | crontab -
+(crontab -l 2>/dev/null; echo "* 2 * * * /home/king/backup_project/auto.sh --auto") | crontab -
 
 zenity --info --text="Backup Scheduled Daily at 2 A.M."
 
