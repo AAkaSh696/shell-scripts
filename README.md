@@ -1,2 +1,11 @@
-# shell-scripts
-This repo contains code/scripts of shell scripting concept along with best practices.
+# Shell Scripts
+
+This repository contains basic shell scripts created during my DevOps learning.
+It contains:
+- Shell scripting concept scripts along with their name
+- Some advanced shell scripting scripts
+- One project: Smart Automated File backup and recovery system with automation. 
+
+## Tools Used
+- Bash
+- Linux
