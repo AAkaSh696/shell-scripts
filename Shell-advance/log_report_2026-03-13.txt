@@ -1,0 +1,24 @@
+Log Analysis Report
+Date: 2026-03-13
+Log File: files.log
+Total Lines Processes: 30
+Total Error : 5
+
+---Top Error messages---
+      2    Segmentation fault
+      1    Invalid input
+      1    Failed to connect
+      1    Disk full
+
+--Critical Events--
+3:2026-03-13 23:22:03 [CRITICAL]  - 1217
+4:2026-03-13 23:22:03 [CRITICAL]  - 6630
+6:2026-03-13 23:22:03 [CRITICAL]  - 7532
+7:2026-03-13 23:22:03 [CRITICAL]  - 16211
+8:2026-03-13 23:22:03 [CRITICAL]  - 255
+9:2026-03-13 23:22:03 [CRITICAL]  - 19262
+13:2026-03-13 23:22:03 [CRITICAL]  - 22409
+19:2026-03-13 23:22:03 [CRITICAL]  - 13168
+21:2026-03-13 23:22:03 [CRITICAL]  - 30871
+22:2026-03-13 23:22:03 [CRITICAL]  - 26885
+27:2026-03-13 23:22:03 [CRITICAL]  - 18667
